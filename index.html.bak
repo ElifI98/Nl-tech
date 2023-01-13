@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>NL - Tech - Najbolje mijesto za vaša IT riješenja i servis</title>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <meta content="Construction Company Website Template" name="keywords">
+        <meta content="Construction Company Website Template" name="description">
+
+        <!-- Favicon -->
+        <link href="img/favicon.ico" rel="icon">
+
+        <!-- Google Font -->
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+        <!-- CSS Libraries -->
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+        <link href="lib/flaticon/font/flaticon.css" rel="stylesheet"> 
+        <link href="lib/animate/animate.min.css" rel="stylesheet">
+        <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+        <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+        <link href="lib/slick/slick.css" rel="stylesheet">
+        <link href="lib/slick/slick-theme.css" rel="stylesheet">
+
+        <!-- Template Stylesheet -->
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <div class="wrapper">
+            <!-- Top Bar Start -->
+            <div class="top-bar">
+                <div class="container-fluid">
+                    <div class="row align-items-center">
+                        <div class="col-lg-4 col-md-12">
+                            <div class="logo">
+                                <a href="index.html">
+                                    <h1>NL-Tech</h1>
+                                    <!-- <img src="img/logo.jpg" alt="Logo"> -->
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-8 col-md-7 d-none d-lg-block">
+                            <div class="row">
+                                <div class="col-4">
+                                    <div class="top-bar-item">
+                                        <div class="top-bar-icon">
+                                            <i class="flaticon-calendar"></i>
+                                        </div>
+                                        <div class="top-bar-text">
+                                            <h3>Radno Vrijeme</h3>
+                                            <p>Pon - Pet, 9:00 - 17:00</p>
+											<p>Sub - 10:00 - 16:00<p>
+											<p>Ned - Zatvoreno<p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-4">
+                                    <div class="top-bar-item">
+                                        <div class="top-bar-icon">
+                                            <i class="flaticon-call"></i>
+                                        </div>
+                                        <div class="top-bar-text">
+                                            <h3>Kontakt</h3>
+                                            <p>+385 92-230-8870</p>
+											<p>+385 95-560-5595<p>
+											<p>info@nl-tech.eu</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-4">
+                                    <div class="top-bar-item">
+                                        <div class="top-bar-text"> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Top Bar End -->
+
+            <!-- Nav Bar Start -->
+            <div class="nav-bar">
+                <div class="container-fluid">
+                    <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+                        <a href="#" class="navbar-brand">MENI</a>
+                        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+
+                        <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+                            <div class="navbar-nav mr-auto">
+                                <a href="index.html" class="nav-item nav-link active">Početna stranica</a>
+								<div class="nav-item dropdown">
+                                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">IT-riješenja</a>
+                                    <div class="dropdown-menu">
+                                        <a href="blog.html" class="dropdown-item">Mrežna riješenja i udaljena podrška</a>
+                                        <a href="single.html" class="dropdown-item">Web riješenja</a>
+                                    </div>
+                                </div>
+								<a href="service.html" class="nav-item nav-link">Servis i održavanje</a>
+								<a href="portfolio.html" class="nav-item nav-link">Podaja</a>
+                                <a href="about.html" class="nav-item nav-link">O Nama</a>
+                                <a href="contact.html" class="nav-item nav-link">Kontakt</a>
+                            </div>
+                            <div class="ml-auto">
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <!-- Nav Bar End -->
+
+
+            <!-- Carousel Start -->
+            <div id="carousel" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#carousel" data-slide-to="0" class="active"></li>
+                </ol>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="img/pozadina.jpg" alt="Carousel Image">
+                        <div class="carousel-caption">
+                            <p class="animated fadeInRight">NL-Tech</p>
+                            <h1 class="animated fadeInLeft">Sve vaše potrebe na jednom mijestu softwarska riješenja,servis računala,igračih konzola,IT riješenja,web riješenja i mrežnih riješenja.</h1>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+
+                <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+            <!-- Carousel End -->
+
+
+            <!-- Feature Start-->
+            <div class="feature wow fadeInUp" data-wow-delay="0.1s">
+                <div class="container-fluid">
+                    <div class="row align-items-center">
+                        <div class="col-lg-4 col-md-12">
+                            <div class="feature-item">
+                                <div class="feature-icon">
+                                    <i class="flaticon-worker"></i>
+                                </div>
+                                <div class="feature-text">
+                                    <h3>Stručni radnici</h3>
+                                    <p>Naš tim posjeduje CCNA Cisco certifikate i računarne certifikate.</p>
+									<p>Također uz Cisco stručnjaka imamo u timu i Fortinet stučnjaka.<p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-12">
+                            <div class="feature-item">
+                                <div class="feature-icon">
+                                    <i class="flaticon-building"></i>
+                                </div>
+                                <div class="feature-text">
+                                    <h3>IT-riješenja</h3>
+                                    <p>Naš tim pruža CCNA Cisco standard mrežnih riješenja.<p>
+									<p>Nudimo redovno održavanje vašeg IT sustava koje će omogućiti vašem sustavu da radi glatko uz mnogo manju mogućnost za nekim kvarom, osiguravajući tako optimalne performanse uz manje troškove održavanja.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-12">
+                            <div class="feature-item">
+                                <div class="feature-icon">
+                                    <i class="flaticon-call"></i>
+                                </div>
+                                <div class="feature-text">
+                                    <h3>24/7 Podrška (Support)</h3>
+                                    <p>Našim klijentima nudimo mogućnost podrške na daljinu.<p> 
+									<p>Detekcija i otklanjanje kvara se vrši spajanjem na vaše računalo koje umanjuje troškove održavanja i servisiranja.<p>
+									<p>Da bi kvar otklonili potrebno nam je samo da vaše računalo bude spojeno na internet.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Feature End-->
+
+
+            <!-- About Start -->
+            <div class="about wow fadeInUp" data-wow-delay="0.1s">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-5 col-md-6">
+                            <div class="about-img">
+                                <img src="img/maticna.jpg" alt="Image"style="width:35+40px;height:430px;">
+                            </div>
+                        </div>
+                        <div class="col-lg-7 col-md-6">
+                            <div class="section-header text-left">
+                                <h2>NL-Tech</h2>
+                            </div>
+                            <div class="about-text">
+                                <p>
+                                    NL tech je mala firma koja nudi softwarska riješenja, servis računala, svih Playstation igračih konzola, Xbox igračih konzola, IT riješenja, web riješenja i mrežnih riješenja.</p>
+                                <p>Također se bavimo prodajom i otkupom PS4,PS3, PS2, PSP, X-box 360, NintendoWii uređaja i dodatne opreme, servis igraćih konzola, Second hand shop, otkup i prodaja rabljenih igara i uređaja (ponude nam možete poslati na email),zamjena igara, staro za novo.<p>
+								<p>Posjedujemo iskustvo u radu sa mnogo različitih brendova i modela računala i računalnog hardware-a te rješavamo većinu problema u kratkom roku radilo se o računalu koje sami dostavite u naš servisili ga naš tim dođe popraviti.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- About End -->
+
+
+            <!-- Fact Start -->
+            <div class="fact">
+                <div class="container-fluid">
+                    <div class="row counters">
+                        <div class="col-md-6 fact-left wow slideInLeft">
+                            <div class="row">
+                                <div class="col-6">
+                                    <div class="fact-icon">
+                                        <i class="flaticon-worker"></i>
+                                    </div>
+                                    <div class="fact-text">
+                                        <h2 data-toggle="counter-up">4</h2>
+                                        <p>Godine iskustva</p>
+                                    </div>
+                                </div>
+                                <div class="col-6">
+                                    <div class="fact-icon">
+                                        <i class="flaticon-building"></i>
+                                    </div>
+                                    <div class="fact-text">
+                                        <h2 data-toggle="counter-up">328</h2>
+                                        <p>Zadovoljnih klijenata</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 fact-right wow slideInRight">
+                            <div class="row">
+                                <div class="col-6">
+                                    <div class="fact-icon">
+                                        <i class="flaticon-address"></i>
+                                    </div>
+                                    <div class="fact-text">
+                                        <h2 data-toggle="counter-up">118</h2>
+                                        <p>Projekta</p>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Fact End -->
+
+
+            <!-- Service Start -->
+            <div class="service">
+                <div class="container">
+                    <div class="section-header text-center">
+                        <p></p>
+                        <h2>Projekti</h2>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                            <div class="service-item">
+                                <div class="service-img">
+                                    <img src="img/ps1-2.jpeg" alt="Image">
+                                    <div class="service-overlay">
+                                        <p>Kompletno čišćenje PS3 i PS4 konzole i zamjena termalne paste.</p>
+                                    </div>
+                                </div>
+                                <div class="service-text">
+                                    <h3>Playstation servis</h3>
+                                    <a class="btn" href="img/ps1-1.jpeg" data-lightbox="ps1">+</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                            <div class="service-item">
+                                <div class="service-img">
+                                    <img src="img/racunalo1.jpg" alt="Image">
+                                    <div class="service-overlay">
+                                        <p>
+                                            Posjedujemo iskustvo u radu sa mnogo različitih brendova i modela računala i računalnog hardware-a te rješavamo većinu problema u kratkom roku.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="service-text">
+                                    <h3>Servis računala</h3>
+                                    <a class="btn" href="img/racunalo1.jpg" data-lightbox="service">+</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                            <div class="service-item">
+                                <div class="service-img">
+                                    <img src="img/domene.jpg" alt="Image">
+                                    <div class="service-overlay">
+                                        <p>
+                                            Registriramo sve tipove domena po vašoj želji. Neke od domena .hr,.com,.eu,.net,.de,.ch .... itd. Ako neke i nismo naveli kontaktirajte nas.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="service-text">
+                                    <h3>Registracija domena</h3>
+                                    <a class="btn" href="img/domene.jpg" data-lightbox="service">+</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
+                            <div class="service-item">
+                                <div class="service-img">
+                                    <img src="img/webpage.jpg" alt="Image">
+                                    <div class="service-overlay">
+                                        <p>
+                                            Porfesionalna izrada web stranica i web shopova po vašoj želji za sve tipove dijelatnosti. 
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="service-text">
+                                    <h3>Web stranice</h3>
+                                    <a class="btn" href="img/webpage.jpg" data-lightbox="service">+</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                            <div class="service-item">
+                                <div class="service-img">
+                                    <img src="img/webhosting1.jpg" alt="Image">
+                                    <div class="service-overlay">
+                                        <p>
+                                            Najbolji serveri za smještaj vaših web stranica. Najnovija generacija naših servera ima 0/24 dostupnost od dana puštanja u pogon.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="service-text">
+                                    <h3>Housting</h3>
+                                    <a class="btn" href="img/webhosting1.jpg" data-lightbox="service">+</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
+                            <div class="service-item">
+                                <div class="service-img">
+                                    <img src="img/it.jpg" alt="Image"style="width:374px;height:280px;">
+                                    <div class="service-overlay">
+                                        <p>
+                                         Naša uloga u IT riješenjima zasniva se na prevenciji umjesto intervenciji, a zadaća nam je osigurati vaš informatički sustav. Naš zadatak je osigurati stabilan rad opreme, kako bi posao radili u miru. Računalna oprema mora se nadograditi, softver ažurirati, a poslužitelj držati daleko od znatiželjnih očiju.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="service-text">
+                                    <h3>IT-riješenja</h3>
+                                    <a class="btn" href="img/it.jpg" data-lightbox="service">+</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Service End -->
+
+
+            <!-- Video Start -->
+            <div class="video wow fadeIn" data-wow-delay="0.1s">
+                <div class="container">
+            <!-- Video Start -->
+            <div class="video wow fadeIn" data-wow-delay="0.1s">
+                <div class="container">
+                    <button type="button" class="btn-play" data-toggle="modal" data-src="\servis.nl-tech.mp4" data-target="#videoModal">
+                        <span></span>
+                    </button>
+                </div>
+            </div>
+            
+            <div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>        
+                            <!-- 16:9 aspect ratio -->
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe class="embed-responsive-item" src="" id="video"  allowscriptaccess="always" allow="autoplay"></iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Video End -->
+                </div>
+            </div>
+            
+            <div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>        
+                            <!-- 16:9 aspect ratio -->
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe class="embed-responsive-item" src="" id="video"  allowscriptaccess="always" allow="autoplay"></iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Video End -->
+            <!-- FAQs Start -->
+            <div class="faqs">
+                <div class="container">
+                    <div class="section-header text-center">
+                        <p>Često postavljena pitanja</p>
+                        <h2>Odgovori</h2>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div id="accordion-1">
+                                <div class="card wow fadeInLeft" data-wow-delay="0.1s">
+                                    <div class="card-header">
+                                        <a class="card-link collapsed" data-toggle="collapse" href="#collapseOne">
+                                            Popravak ?
+                                        </a>
+                                    </div>
+                                    <div id="collapseOne" class="collapse" data-parent="#accordion-1">
+                                        <div class="card-body">
+                                            Posjedujemo iskustvo u radu sa mnogo različitih brendova i modela računala i računalnog hardware-a te rješavamo većinu problema u kratkom roku radilo se o računalu koje sami dostavite u naš servis.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card wow fadeInLeft" data-wow-delay="0.2s">
+                                    <div class="card-header">
+                                        <a class="card-link collapsed" data-toggle="collapse" href="#collapseTwo">
+                                            Mrežna riješenja ?
+                                        </a>
+                                    </div>
+                                    <div id="collapseTwo" class="collapse" data-parent="#accordion-1">
+                                        <div class="card-body">
+                                            Od mrežne utičnice koja spaja vaše računalo, smart TV, igraču konzolu na internet do kompletnog kabliranja vašeg poduzeća ili kuće, naš tim pruža CCNA Cisco standard kabliranja koji će zadovoljiti sve vaše zahtjeve.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card wow fadeInLeft" data-wow-delay="0.3s">
+                                    <div class="card-header">
+                                        <a class="card-link collapsed" data-toggle="collapse" href="#collapseThree">
+                                            Servis od vašeg doma ili ureda ?
+                                        </a>
+                                    </div>
+                                    <div id="collapseThree" class="collapse" data-parent="#accordion-1">
+                                        <div class="card-body">
+                                            Našim klijentima nudimo mogućnost podrške na daljinu. Detekcija i otklanjanje kvara se vrši spajanjem na vaše računalo koje umanjuje troškove održavanja i servisiranja.Da bi kvar otklonili potrebno nam je samo da vaše računalo bude spojeno na internet.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card wow fadeInLeft" data-wow-delay="0.4s">
+                                    <div class="card-header">
+                                        <a class="card-link collapsed" data-toggle="collapse" href="#collapseFour">
+                                            Otkup igračih konzola ili joysticka (kontrolera) ?
+                                        </a>
+                                    </div>
+                                    <div id="collapseFour" class="collapse" data-parent="#accordion-1">
+                                        <div class="card-body">
+                                            Ponude nam možete poslati na naš mail sa slikama igrače konzole i model konzole.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card wow fadeInLeft" data-wow-delay="0.5s">
+                                    <div class="card-header">
+                                        <a class="card-link collapsed" data-toggle="collapse" href="#collapseFive">
+                                            Servis i instalacije ?
+                                        </a>
+                                    </div>
+                                    <div id="collapseFive" class="collapse" data-parent="#accordion-1">
+                                        <div class="card-body">
+                                            Nudimo redovno održavanje vašeg IT sustava koje će omogućiti vašem sustavu da radi glatko uz mnogo manju mogućnost za nekim kvarom, osiguravajući tako optimalne performanse uz manje troškove održavanja.
+                                            Dijagnosticiramo i otklanjamo bilo kakve poteškoće. Cijena sata tehničara je 100kn + cijena zamijenjenih dijelova. Instalacija software ili drugih alata se kreće od 180 kn.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div id="accordion-2">
+                                <div class="card wow fadeInRight" data-wow-delay="0.1s">
+                                    <div class="card-header">
+                                        <a class="card-link collapsed" data-toggle="collapse" href="#collapseSix">
+                                            Cijena Playstation servisa ?
+                                        </a>
+                                    </div>
+                                    <div id="collapseSix" class="collapse" data-parent="#accordion-2">
+                                        <div class="card-body">
+                                            Vršimo servis playstation  konzola svih modela od PS1 do PS5.
+											Cijena servisa je 100 kn sat tehničara + cijena dijelova.
+											Čišćenje i zamijena termalne paste za:
+											Ps4 - 180 Kn
+											Ps3 - 150 Kn
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card wow fadeInRight" data-wow-delay="0.2s">
+                                    <div class="card-header">
+                                        <a class="card-link collapsed" data-toggle="collapse" href="#collapseSeven">
+                                            Modifikacija Playstation konzola?
+                                        </a>
+                                    </div>
+                                    <div id="collapseSeven" class="collapse" data-parent="#accordion-2">
+                                        <div class="card-body">
+                                            Modifikacija svih konzola kreće od 100 kn.Ovisi o broju igrica kojih želite instalirati na vašu konzolu.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card wow fadeInRight" data-wow-delay="0.3s">
+                                    <div class="card-header">
+                                        <a class="card-link collapsed" data-toggle="collapse" href="#collapseEight">
+                                            Registracija domena
+                                        </a>
+                                    </div>
+                                    <div id="collapseEight" class="collapse" data-parent="#accordion-2">
+                                        <div class="card-body">
+                                            Registriramo sve tipove domena po vašoj želji. Neke od domena .hr,.com,.eu,.net,.de,.ch .... itd. Ako neke i nismo naveli kontaktirajte nas.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card wow fadeInRight" data-wow-delay="0.4s">
+                                    <div class="card-header">
+                                        <a class="card-link collapsed" data-toggle="collapse" href="#collapseNine">
+                                            Web stranice i housting
+                                        </a>
+                                    </div>
+                                    <div id="collapseNine" class="collapse" data-parent="#accordion-2">
+                                        <div class="card-body">
+                                            Porfesionalna izrada web stranica i web shopova po vašoj želji za sve tipove dijelatnosti.
+											Najbolji serveri za smještaj vaših web stranica. Najnovija generacija naših servera ima 0/24 dostupnost od dana puštanja u pogon.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card wow fadeInRight" data-wow-delay="0.5s">
+                                    <div class="card-header">
+                                        <a class="card-link collapsed" data-toggle="collapse" href="#collapseTen">
+                                            IT-riješenja
+                                        </a>
+                                    </div>
+                                    <div id="collapseTen" class="collapse" data-parent="#accordion-2">
+                                        <div class="card-body">
+                                         Naša uloga u IT riješenjima zasniva se na prevenciji umjesto intervenciji, a zadaća nam je osigurati vaš informatički sustav. Naš zadatak je osigurati stabilan rad opreme, kako bi posao radili u miru. Računalna oprema mora se nadograditi, softver ažurirati, a poslužitelj držati daleko od znatiželjnih očiju. Sigurnosna pohrana osigurava vaš miran san čak i u uvjetima raširenih zloćudnih aplikacija, a udaljeno spajanje za vas mora biti samo prečica na radnoj površini preko koje dolazite do svog računala udaljenim pristupom. Dokumentiranje i kriptiranje osobnih podataka samo za određene zaposlenike samo je jedna od procedura koje morate poštivati, uz licence za sve programe koje koristite.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- FAQs End -->
+             <!-- Footer Start -->
+            <div class="footer wow fadeIn" data-wow-delay="0.3s">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 col-lg-3">
+                            <div class="footer-contact">
+                                <h2>Lokacija</h2>
+                                <p><i class="fa fa-map-marker-alt"></i>Remetinečka cesta 79, 10020 Zagreb</p>
+                                <p><i class="fa fa-phone-alt"></i>+385 92-230-8870</p>
+			        <p><i class="fa fa-phone-alt"></i>+385 95-560-5595</p>
+                                <p><i class="fa fa-envelope"></i>info@nl-tech.eu</p>
+                                <div class="footer-social">
+                                    <a href=""><i class="fab fa-facebook-f"></i></a>
+                                    <a href=""><i class="fab fa-instagram"></i></a>
+                                    <a href=""><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                        </div>                       
+                        <div class="col-md-6 col-lg-3">
+                            <div class="footer-link">
+                                <h2>Korisne stranice</h2>
+                                <a href="">IT-riješenja</a>
+                                <a href="">Servis i održavanje</a>
+                                <a href="">Prodaja</a>
+                                <a href="">O Nama</a>
+                                <a href="">Kontakt</a>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3">
+                            <div class="newsletter">
+                                <h2>Poruka</h2>
+                                <p>
+                                    Ako nas niste uspijeli dobiti. Ostavite nam vaš mail i mi ćemo vas kontaktirati.
+                                </p>
+                                <div class="form">
+                                    <input class="form-control" placeholder="Email here">
+                                    <button class="btn">Potvrdi</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container footer-menu">
+                    <div class="f-menu">
+                        <a href="">Terms of use</a>
+                        <a href="">Privacy policy</a>
+                        <a href="">Cookies</a>
+                        <a href="">Help</a>
+                        <a href="">FQAs</a>
+                    </div>
+                </div>
+                <div class="container copyright">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <p>&copy; <a href="#">NL-Tech</a>, All Right Reserved.</p>
+                        </div>
+                        <div class="col-md-6">
+                            <p>Designed By : <a >NL-Tech</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Footer End -->
+
+            <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+        </div>
+
+        <!-- JavaScript Libraries -->
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+        <script src="lib/easing/easing.min.js"></script>
+        <script src="lib/wow/wow.min.js"></script>
+        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="lib/isotope/isotope.pkgd.min.js"></script>
+        <script src="lib/lightbox/js/lightbox.min.js"></script>
+        <script src="lib/waypoints/waypoints.min.js"></script>
+        <script src="lib/counterup/counterup.min.js"></script>
+        <script src="lib/slick/slick.min.js"></script>
+
+        <!-- Template Javascript -->
+        <script src="js/main.js"></script>
+    </body>
+</html>

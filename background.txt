@@ -1,0 +1,75 @@
+HTML
+
+    <video id="background-video" autoplay loop muted poster="Z:\">
+        <source src="video.mp4" type="video/mp4">
+    </video>
+
+CSS
+
+#background-video {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+  }
+  h1, h2 {
+    color: white;
+    font-family: Trebuchet MS;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 6rem;
+    margin-top: 30vh;
+  }
+  
+  h2 { font-size: 3rem; }
+  @media (max-width: 750px) {
+    #background-video { display: none; }
+    body {
+      background: url("Z:\") no-repeat;
+      background-size: cover;
+    }
+
+
+CSS ovako je radilo
+
+html,body {
+    width:100vw;
+    height: 100vh;
+    margin: 0;
+}
+#video {
+    position:fixed;
+    z-index: -1;
+}
+@media (min-aspect-ratio: 16/9) {
+    #video {
+        width:100%;
+        height: auto;
+    }
+}
+@media (max-aspect-ratio: 16/9) {
+    #video { 
+        width:auto;
+        height: 100%;
+    }
+}
+@media (max-width: 767px) {
+    #video {
+        display: none;
+    }
+    body {
+        background: url('poster.jpg');
+        background-size: cover;
+    }
+}
+
+
+1148 sam stao frontpage  i kontakte rijesio
